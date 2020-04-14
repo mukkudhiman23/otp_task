@@ -1,6 +1,6 @@
 const config = {
-  username: "mehakdhiman.zapbuild@gmail.com",
-  password: "Welcome@mehak",
-  from: "mehakdhiman.zapbuild@gmail.com",
+  username: "demo@gmail.com",
+  password: "1234",
+  from: "demo@gmail.com",
 };
 module.exports = config;
